@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "132879527045",
+    "project_id": "mifka-firebase",
+    "storage_bucket": "mifka-firebase.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:796675995295:android:9beb64c10d9884bb1514aa",
+        "android_client_info": {
+          "package_name": "com.f55119112.firestore"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "796675995295-l9v0fjcsulkq7cmqo2jrt3dpful17a26.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB4Z6BKUkkIvYxUo-8lV73mWKNA2oDEEqI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "796675995295-l9v0fjcsulkq7cmqo2jrt3dpful17a26.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
